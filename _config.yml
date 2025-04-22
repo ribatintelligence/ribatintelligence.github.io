@@ -1,0 +1,6 @@
+title: Ribat Intelligence
+description: Think tank marocain indépendant
+baseurl: ""
+url: "https://ribatintelligence.github.io"
+markdown: kramdown
+theme: minima
